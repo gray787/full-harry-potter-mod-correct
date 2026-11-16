@@ -1,0 +1,7 @@
+{
+  "spells": [
+    {"id":"lumos","name":"Lumos","definition":"Illuminates the tip of the caster's wand, producing a bright light.","category":"Charms","manaCost":5,"cooldownTicks":10,"tracerColorHex":"#FFFFE0"},
+    {"id":"expelliarmus","name":"Expelliarmus","definition":"The Disarming Charm; forces an opponent to drop whatever they are holding.","category":"Charms","manaCost":15,"cooldownTicks":20,"tracerColorHex":"#FF4500"},
+    {"id":"avada_kedavra","name":"Avada Kedavra","definition":"The Killing Curse; inflicts instant, unblockable death upon the target.","category":"Dark Arts","manaCost":100,"cooldownTicks":100,"tracerColorHex":"#00FF00"}
+  ]
+}

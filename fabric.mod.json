@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "potterspells",
+  "version": "${version}",
+  "name": "Wizarding World Spells",
+  "description": "A Fabric mod foundation for a wizarding spells mod.",
+  "authors": ["PotterSpells"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": { "main": ["com.potterspells.PotterSpellsMain"] },
+  "depends": {
+    "fabricloader": ">=0.20.1",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}
